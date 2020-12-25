@@ -84,7 +84,7 @@ Customization for Fine-Grained Traffic Speed Prediction</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Traffic-Prediction-Papers/blob/master/tr(44).pdf" style="text-decoration:none;">Revisiting the Modifiable Areal Unit Problem in Deep Traffic Prediction with Visual Analytics</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Traffic-Prediction-Papers/blob/master/tr(45).pdf" style="text-decoration:none;">Traffic Prediction Framework for OpenStreetMap using Deep Learning based Complex Event Processing and Open Traffic Cameras</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Traffic-Prediction-Papers/blob/master/tr(46).pdf" style="text-decoration:none;">Short-term Trac Prediction with Deep Neural Networks: A Survey</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Traffic-Prediction-Papers/blob/master/tr(46).pdf" style="text-decoration:none;">Short-term Traffic Prediction with Deep Neural Networks: A Survey</a></li> 
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Traffic-Prediction-Papers/blob/master/tr(47).pdf" style="text-decoration:none;">Particle Swarm Optimized Federated Learning For Industrial IoT and Smart City Services</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Traffic-Prediction-Papers/blob/master/tr(48).pdf" style="text-decoration:none;">Demystifying Deep Learning
